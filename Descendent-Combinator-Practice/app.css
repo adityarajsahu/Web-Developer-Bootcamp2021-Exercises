@@ -3,3 +3,7 @@ header a {
     color: teal;
 }
 
+#dislikes a {
+    font-weight: bold;
+    color: red;
+}
